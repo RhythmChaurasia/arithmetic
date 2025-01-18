@@ -1,5 +1,8 @@
 class Calculator{
 
+public int divide(float a, float b){
+ return float a/b;}
+
 public static void main(String args[]){
 
 }
